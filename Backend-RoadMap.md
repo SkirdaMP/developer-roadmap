@@ -56,8 +56,8 @@ My roadmap to study BackEnd
 #### Practice
 | URL | Number of solving tasks |
 |:---: | --- |
-| (https://leetcode.com/problems/add-two-numbers/) | 0 |
-| (https://www.topcoder.com/community/competitive-programming/tutorials/) | 0 |
+| [LeetCode](https://leetcode.com/problems/add-two-numbers/) | 0 |
+| [TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/) | 0 |
 
 ## Безопасность
 #### Courses
