@@ -107,7 +107,15 @@ My roadmap to study BackEnd
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Udemy](https://coursehunter.net/course/python-i-flask-bootcamp-cozdavayte-veb-sayty-s-pomoshchyu-flask) | Python and Flask Bootcamp: Create Websites using Flask! | **TODO** |
-| [Udemy](https://coursehunter.net/course/django-2-i-python-the-ultimate-web-development-bootcamp) | Django 2.1 & Python : The Ultimate Web Development Bootcamp | **TODO** | 
+| [Udemy](https://coursehunter.net/course/django-2-i-python-the-ultimate-web-development-bootcamp) | Django 2.1 & Python : The Ultimate Web Development Bootcamp | **TODO** |
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| [Django Advanced](https://django-advanced-training.readthedocs.io/en/latest/) | Author | To Do |
+| Python FrameWorks | Dana Moore | To Do |
+| Flask Web Development | Miguel Grinberg | *In Progress* |
+| Django 2 в примерах | Mele A. | *To Do* |
+
 
 
 ### Virtualization
@@ -129,3 +137,6 @@ My roadmap to study BackEnd
 | :---: | --- |
 | [Medium RoadMap](https://medium.com/nuances-of-programming/%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-backend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA-2018-a43d51a7bcd1) | Современный backend-разработчик 2018 |
 | [Hackr.io RoadMap](https://hackr.io/roadmaps/backend-developer-roadmap) | Backend Developer Roadmap |
+| [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) | Full Stack Python |
+| [TopCoder Tasks](https://community.topcoder.com/tc?module=MatchList) | Задачи в архивах |
+
