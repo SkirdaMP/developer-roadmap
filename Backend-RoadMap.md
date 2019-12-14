@@ -63,16 +63,15 @@ My roadmap to study BackEnd
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Cybrary]https://www.cybrary.it/course/ethical-hacking/ | Penetration Testing and Ethical hacking  | **TODO** |
-| [Udemy]https://www.udemy.com/course/linux-security/?LSNPUBID=jU79Zysihs4&ranEAID=jU79Zysihs4&ranMID=39197&ranSiteID=jU79Zysihs4-zksnf2ktyHrZXJYk7lO.Ng | Linux Security and Hardening, The Practical Security Guide | **TODO** |
+| [Cybrary](https://www.cybrary.it/course/ethical-hacking/) | Penetration Testing and Ethical hacking  | **TODO** |
+| [Udemy](https://www.udemy.com/course/linux-security/?LSNPUBID=jU79Zysihs4&ranEAID=jU79Zysihs4&ranMID=39197&ranSiteID=jU79Zysihs4-zksnf2ktyHrZXJYk7lO.Ng) | Linux Security and Hardening, The Practical Security Guide | **TODO** |
 #### Books
 | Title/URL | Author | Status |
 | --- | :---: | :---: |
 | Reverse Engineering for Beginners/https://beginners.re/RE4B-RU.pdf | Денис Юричев | *To Do* |
 | Coding for Penetration Testers | Jason Andres | **TODO** |
 | Black Hat Python | Justin Seitz  | **TODO** |
-| Информационная безопасность: защита и нападение | 
-Бирюков Андрей Александрович | To Do |
+| Информационная безопасность: защита и нападение | Бирюков Андрей Александрович | To Do |
 
 ## Data Engineering
 ### SQL
@@ -107,7 +106,7 @@ My roadmap to study BackEnd
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Udemy]https://coursehunter.net/course/python-i-flask-bootcamp-cozdavayte-veb-sayty-s-pomoshchyu-flask | Python and Flask Bootcamp: Create Websites using Flask! | **TODO** |
+| [Udemy](https://coursehunter.net/course/python-i-flask-bootcamp-cozdavayte-veb-sayty-s-pomoshchyu-flask) | Python and Flask Bootcamp: Create Websites using Flask! | **TODO** |
 | [Udemy](https://coursehunter.net/course/django-2-i-python-the-ultimate-web-development-bootcamp) | Django 2.1 & Python : The Ultimate Web Development Bootcamp | **TODO** | 
 
 
@@ -128,5 +127,5 @@ My roadmap to study BackEnd
 ## Useful URL's
 | URL | Title |
 | :---: | --- |
-| (https://medium.com/nuances-of-programming/%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-backend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA-2018-a43d51a7bcd1) | Современный backend-разработчик 2018 |
-| (https://hackr.io/roadmaps/backend-developer-roadmap) | Backend Developer Roadmap |
+| [Medium RoadMap](https://medium.com/nuances-of-programming/%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-backend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA-2018-a43d51a7bcd1) | Современный backend-разработчик 2018 |
+| [Hackr.io RoadMap](https://hackr.io/roadmaps/backend-developer-roadmap) | Backend Developer Roadmap |
