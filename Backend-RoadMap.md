@@ -17,7 +17,7 @@ My roadmap to study BackEnd
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [udemy](https://coursehunter.net/course/polnyy-kurs-python-izuchayte-python-na-praktike) | Learn Python on Practice | **TODO** |
+| [udemy](https://coursehunter.net/course/polnyy-kurs-python-izuchayte-python-na-praktike) | Learn Python on Practice | **In Progress** |
 | [SkillBox](https://coursehunter.net/course/python-razrabotchik) | Python-developer | **TODO** |
 | [Stepik](https://stepik.org/course/67) | Программирование на Python | **TODO** |
 | [Udemy](https://www.udemy.com/complete-python-bootcamp/) | Complete Python Bootcamp: Go from zero to hero in Python 3 | **TODO** |
@@ -50,7 +50,7 @@ My roadmap to study BackEnd
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Грокаем алгоритмы | Адитья Бхаргава | **ToDo** |
+| Грокаем алгоритмы | Адитья Бхаргава | **In Progress** |
 | Совершенный алгоритм. Основы | Тим Рафгарден | To Do |
 | Алгоритмы. Руководство по разработке | Стивен Скиена | To Do |
 #### Practice
