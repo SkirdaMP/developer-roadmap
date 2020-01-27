@@ -29,18 +29,19 @@ My roadmap to study BackEnd
 | --- | :---: | :---: |
 | Программирование на Python | Марк Саммерфилд | **In Progress** |
 
-### Go
+## Go/Java
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/specializations/google-golang?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-_IEPZmNEidIv9Q1.4JOaTg&siteID=jU79Zysihs4-_IEPZmNEidIv9Q1.4JOaTg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4) | Programming with Google Go | *TODO* |
+| [OTUS](https://coursehunter.net/course/razrabotchik-java-chast-1-iz-5) | Разработчик Java. Часть 1 из 5 | *TODO* |
 #### Books
 | Title/URL | Author | Status |
 | --- | :---: | :---: |
 | Golang bootcamp/(http://www.golangbootcamp.com/book?ref=hackr.io) |hackr.io | *ToDo* |
 | Go Web Programming | Sau Sheong Chang | *TODO* |
 
-### Algorithms & Data Structures
+## Algorithms & Data Structures
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
